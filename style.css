@@ -1,0 +1,29 @@
+.mainDiv{
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+
+/* deposit*/
+
+#deposit{
+    display: none;
+}
+.dip{
+    width : 100%;
+    margin: 0 30px;
+    padding: 20px !important;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+}
+.dip-s{
+    background-color: lightsalmon;
+}
+.dip-f{
+    background-color: #6a5acd;
+}
+.dipF{
+    width : 100%;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
